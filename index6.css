@@ -1,7 +1,61 @@
+/*toutes les div*/
 div{
-  height: 40px;
+  float: left;
+}
+
+/*Div avec comme identifiant cyan*/
+#cyan{
+  background-color: #2ECC71;
+  height: 50px;
   width: 80%;
 }
-#cyan{
-  background-color: cyan;
+
+/*Div avec comme identifiant blue*/
+#blue{
+  background-color: #2980B9;
+  height: 50px;
+  width: 20%;
+}
+
+/*Div avec comme identifiant red*/
+#red{
+  background-color: #E74C3C;
+  height: 100px;
+  width: 33%;
+}
+/*Div avec comme identifiant orange*/
+#orange{
+  background-color: #E67E22;
+  height: 50px;
+  width: 33%;
+}
+/*Div avec comme identifiant grey*/
+#grey{
+  background-color: #95A5A6;
+  height: 50px;
+  width: 34%;
+}
+/*Div avec comme identifiant yellow*/
+#yellow{
+  background-color: #F39C12;
+  height: 50px;
+  width: 22%;
+}
+/*Div avec comme identifiant bluem*/
+#bluem{
+  background-color: #16A085;
+  height: 50px;
+  width: 22%;
+}
+/*Div avec comme identifiant brown*/
+#brown{
+  background-color: #D35400;
+  height: 50px;
+  width: 23%;
+}
+/*Div avec comme identifiant black*/
+#black{
+  background-color: #2C3E50;
+  height: 150px;
+  width: 100%;
 }
